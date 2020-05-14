@@ -24,3 +24,4 @@ FROM Track t JOIN Album al JOIN Artist at ON t.album_id = al.id
  ORDER BY t.count desc 
  LIMIT 3
 
+![SQL](https://user-images.githubusercontent.com/47153425/81879965-221ad300-955a-11ea-854f-087a1504c695.PNG)
