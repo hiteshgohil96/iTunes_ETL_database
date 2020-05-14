@@ -16,6 +16,7 @@ Data models are made up of entities (objects) and they become the tables in a da
 I have designed 3 tables, Artist, Album, Track.The tables are writen in python using sqlite library and are saved in which is used to read,write, retrieve the data.
 ETL project.
 
+![web](https://user-images.githubusercontent.com/47153425/81880047-63ab7e00-955a-11ea-9534-651df5538fe7.jpeg)
 
 
 # Result 
