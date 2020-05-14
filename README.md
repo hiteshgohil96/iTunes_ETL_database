@@ -13,7 +13,6 @@ I have designed 3 tables, Artist, Album, Track.The tables are writen in python u
 ETL project.
 
 
-![SQL](https://user-images.githubusercontent.com/47153425/81879442-d0257d80-9558-11ea-9811-10b79fd02689.PNG)
 
 # Result 
 
