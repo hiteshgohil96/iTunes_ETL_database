@@ -3,8 +3,8 @@
 
 Let say, I'm making an application to manage my iTunes music. The goal of this project is to extract my iTunes dataset in XML format into python and load it in desired format back into database.
 
-XML data - 
-
+XML data overview - 
+![Capture](https://user-images.githubusercontent.com/47153425/81880159-b4bb7200-955a-11ea-8715-cab7516e0749.PNG)
 
 Using SQLite, I created the database, hitesh_trackdb, and lauched queries to tranform the data and load it back into the database.
 
