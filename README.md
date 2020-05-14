@@ -6,7 +6,7 @@ Let say, I'm making an application to manage my iTunes music. The goal of this p
 XML data overview - 
 ![Capture](https://user-images.githubusercontent.com/47153425/81880159-b4bb7200-955a-11ea-8715-cab7516e0749.PNG)
 
-Using SQLite, I created the database, hitesh_trackdb, and lauched queries to tranform the data and load it back into the database.
+Using SQLite, I created the database, hitesh_trackdb, and lauched queries into python to tranform the data and load it back into the database.
 
 ETL is a process that extracts the data from different source systems, then transforms the data (like applying calculations, concatenations, etc.) and finally loads the data into the Data Warehouse/ Database system.
 
